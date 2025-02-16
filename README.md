@@ -15,4 +15,4 @@ This repository serves as a template for new repositories that require an MIT Li
 
 This repository uses the MIT License, a permissive open-source license that allows you to freely use, modify, and distribute the code while requiring attribution to the original author.
 
-For more details, see the [LICENSE](LICENSE) file.
+For more details, see the [LICENSE](https://github.com/KnightSecX/Template-Repo/blob/main/MIT%20License) file.
